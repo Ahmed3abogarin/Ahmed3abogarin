@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate with other unquie Developers
 - 📫 How to reach me
 - Whatsapp : +966 536770366
-- ⚡ 
 
 <!---
 Ahmed3abogarin/Ahmed3abogarin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
